@@ -7,6 +7,7 @@ import News from './components/News';
 import Weather from './components/Weather';
 import Sports from './components/Sports';
 import Science from './components/Science';
+import Dash from './components/Dash';
 
 
 function App() {
@@ -24,7 +25,8 @@ function App() {
     news: News,
     weather: Weather,
     sports: Sports,
-    science: Science
+    science: Science,
+    home: Dash
   }
 
   let Rendered = compName[component]

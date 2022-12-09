@@ -11,7 +11,7 @@ import Dash from './components/Dash';
 
 
 function App() {
-  const[display, setDisplay]= useState("news")
+  const[display, setDisplay]= useState("home")
 
   function updateState(data){
    console.log('The data from nav bttn: ', data)

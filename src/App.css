@@ -5,6 +5,7 @@
   justify-content: flex-start;
   width: 100vw;
   height: 100vh;
+  background-color: #fcecd8;
 }
 .Navbar{
   display: flex;
@@ -13,7 +14,7 @@
   justify-content: flex-start;
   height: 100vh;
   width: 15vw;
-  gap: 4rem;
+  gap: 1rem;
   border-right: 1px solid #ccc;
 }
 .NavBtnLst{
@@ -25,7 +26,7 @@
   height: 60vh;
 }
 .navBtn{
-  width: 10vw;
+  width: 13vw;
   height: 4vh;
   display: flex;
   align-items: center;
@@ -48,15 +49,40 @@
 .Dash{
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  /* background-color: antiquewhite; */
-  width: 100%;
+  width: 85vw;
   height: 100vh;
-  gap: 5rem;
-  margin: none;
 }
+.overview{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 2;
+  height: 100vh;
+  width: 50vw;
+  background-color: aquamarine;
+}
+.mytasks{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 100vh;
+  width: 50vw;
+  background-color: aqua;
+}
+.forecast_summary{
+  background-color: aliceblue;
+  display: flex;
+  flex: 1;
+  min-width:100%;
+  flex-direction: row;
+  align-items: center;
+  justify-content:center;
+}
+
 .cardtest{
   display: flex;
   flex-direction: column;

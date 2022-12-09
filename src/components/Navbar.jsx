@@ -2,7 +2,7 @@ import React,{} from 'react'
 import '../App.css';
 import Navbtn from './elements/Navbtn';
 import { BsGear } from "react-icons/bs";
-import profile from '../assets/marcus_profile.png'
+import profile from '../assets/logo_nbg.png'
 
 
 function Navbar({updateState}) {
@@ -12,7 +12,7 @@ function Navbar({updateState}) {
     return (
     <div className='Navbar'>
 
-        <img src={profile} alt="profile_img" style={{width: 100, height: 100, borderRadius: 60, marginTop:45 }} />
+        <img src={profile} alt="profile_img" style={{width: 200, height: 200}} />
 
         <div className="NavBtnLst">
             {

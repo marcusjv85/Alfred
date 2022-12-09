@@ -1,0 +1,82 @@
+[draggable=true]{
+    cursor: move;
+}
+.hbody{
+    overflow: hidden;
+}
+.htitle{
+    margin-block-start: .5rem;
+    padding-left: 2rem;
+}
+.hscroll{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    width: 87vw;
+    height: 43vh;
+    /* background-color:aqua; */
+    overflow-x: scroll;
+    overflow-y: hidden;
+    margin-inline-end: 2rem;
+}
+.hscroll::-webkit-scrollbar{
+    display: none;
+}
+.card{
+    pointer-events: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    /* background-color: #bbb; */
+    height:40vh;
+    min-width:20vw;
+    border-top: 1px solid #c4c4c4;
+    /* box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.2); */
+    font-weight: bold;
+    font-stretch: expanded;
+    margin-inline: 1rem;
+    margin-block: 1rem;
+    padding-inline: 1rem;
+    cursor: grab;
+    overflow: hidden;
+  }
+  .card:nth-child(even){
+    /* pointer-events: none; */
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: flex-start;
+
+  }
+  .card:active{
+    cursor: grabbing;
+  }
+  .carImg{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100%;
+    min-width: 30%;
+  }
+  img{
+    max-width:100%;
+    max-height:100vh;
+  }
+  .cardBody{
+    display: flex;
+    flex-direction: column;
+    padding-inline: 1rem;
+    padding-bottom: 2px;
+    font-weight: lighter;
+    align-items: center;
+    justify-content: flex-start;
+    min-height: 100%;
+    min-width: 60%;
+    overflow-y: wrap;
+    overflow-x: scroll;
+  }
+  .cardBody::-webkit-scrollbar{
+    display: none;
+  }

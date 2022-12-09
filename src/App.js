@@ -11,7 +11,11 @@ import Dash from './components/Dash';
 
 
 function App() {
-  const[display, setDisplay]= useState("news")
+  const[display, setDisplay]= useState("weather")
+
+  navigator.geolocation.getCurrentPosition((position)=>{
+    console.log(`lat: ${position.coords.latitude} \n long: ${position.coords.longitude}`)
+  })
 
   function updateState(data){
    console.log('The data from nav bttn: ', data)

@@ -5,6 +5,7 @@
   justify-content: flex-start;
   width: 100vw;
   height: 100vh;
+
 }
 .Navbar{
   display: flex;
@@ -38,12 +39,14 @@
 }
 .MainBody{
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
   width: 100vw;
   height: 100vh;
-  /* background-color: aqua; */
+  overflow: hidden;
+  background-color: rgba(255, 255, 255, 0.2);
+  backdrop-filter: blur(90px);
 }
 .Dash{
   display: flex;
@@ -73,31 +76,18 @@
   margin-block: 1rem;
   cursor: pointer;
 }
-.cardtest2{
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: flex-start;
-  background-color: #bbb;
-  height:40vh;
-  width:10vw;
-  border-radius: 15px;
-  border: 1px solid #c4c4c4;
-  box-shadow: 1px 2px 8px rgba(0, 0, 0, 0.2);
-  font-weight: bold;
-  font-stretch: expanded;
-  margin-block: 1rem;
-  cursor: pointer;
-}
+
 .News{
   display: flex;
-  flex-direction: row;
+  flex: 1;
+  flex-direction: column;
   align-items: flex-start;
-  justify-content: center;
-  width: 85vw;
+  justify-content: flex-start;
   height: 100vh;
-  overflow-x: scroll;
+  width: auto;
+  overflow: hidden;
   gap: 2rem;
+  /* background-color: antiquewhite; */
 }
 .Weather{
   display: flex;
@@ -114,4 +104,21 @@
   height: 2rem;
   width: 3rem;
   cursor: pointer;
+}
+
+.currWeather > img{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height:35vh;
+  max-width: 20vw;
+  background-color: antiquewhite;
+  background-image: url('./assets/sunny.png');
+}
+.weatherdegree{
+  position: relative;
+  left: 10vw;
+  top:10%;
+  background-color:aqua;
 }

@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sophie Kiderlin",
+            "title": "Treasury yields climb as investors digest jobs data, await ISM Services report - CNBC",
+            "description": "Treasury yields rose on Monday as investors awaited the latest ISM non-manufacturing purchasing managers’ index report and digested a slew of jobs data.",
+            "url": "https://www.cnbc.com/2022/12/05/treasury-yields-climb-as-investors-await-ism-services-report.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107154490-gettyimages-1442553426-dscf1802_ebfa3b94-f261-4c81-a629-8fa32178ee91.jpeg?v=1670234182&w=1920&h=1080",
+            "publishedAt": "2022-12-05T09:56:22Z",
+            "content": "U.S. Treasury yields rose on Monday as investors awaited the latest ISM non-manufacturing purchasing managers' index (PMI) report and continued to digest a slew of jobs data released last week.\r\nThe … [+1338 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Amanda Jackson, Dave Alsup",
+            "title": "Texas school districts encourage students to wear pink in honor of Athena Strand after a FedEx driver was charged in her kidnapping and killing - CNN",
+            "description": "Several school districts across Texas are encouraging students to wear pink Monday in honor of Athena Strand, the 7-year-old girl who was allegedly kidnapped outside her home and killed last week.",
+            "url": "https://www.cnn.com/2022/12/05/us/athena-strand-kidnapping-killing-students-wear-pink/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221205083944-athena-strand-pink-shirts-120522.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-05T09:47:00Z",
+            "content": "Several school districts across Texas are encouraging students to wear pink Monday in honor of Athena Strand, the 7-year-old girl who was allegedly kidnapped outside her home and killed last week. \r\n… [+3249 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Russia Ukraine | Russia Ukraine News | Ukraine Drone Hits Russian Airbase Engels 2 | English News - CNN-News18",
+            "description": "Russia Ukraine | Russia Ukraine News | Ukraine Drone Hits Russian Airbase Engels 2 | English NewsA large explosion has been reported in the morning of Decemb...",
+            "url": "https://www.youtube.com/watch?v=MKDbZe_5Z7o",
+            "urlToImage": "https://i.ytimg.com/vi/MKDbZe_5Z7o/maxresdefault.jpg",
+            "publishedAt": "2022-12-05T09:12:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "Sam Mednick",
+            "title": "Ukrainians hid orphaned children from Russian deportation - The Associated Press - en Español",
+            "description": "KHERSON, Ukraine (AP) — Hours after Russia invaded Ukraine in February, health staff at a children’s hospital in the south started secretly planning how to save the babies.  Russians were suspected of seizing orphan children and sending them to Russia , so st…",
+            "url": "https://apnews.com/article/russia-ukraine-health-europe-orphans-f283aa4d22fdab59a43a16ca0be54baf",
+            "urlToImage": "https://storage.googleapis.com/afs-prod/media/bd9fdf81bcb2440dbc80d4a6e3d61c16/3000.webp",
+            "publishedAt": "2022-12-05T08:01:47Z",
+            "content": "KHERSON, Ukraine (AP) Hours after Russia invaded Ukraine in February, health staff at a childrens hospital in the south started secretly planning how to save the babies. \r\nRussians were suspected of … [+6248 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Athletic"
+            },
+            "author": "Seth Emerson",
+            "title": "Georgia draws Ohio State in College Football Playoff: 5 early thoughts - The Athletic",
+            "description": "Coming off an SEC championship game win, Georgia turns its focus to Ohio State in the College Football Playoff.",
+            "url": "https://theathletic.com/3968733/2022/12/04/georgia-ohio-state-college-football-playoff-2/",
+            "urlToImage": "https://cdn.theathletic.com/app/uploads/2022/12/04184254/GettyImages-1446585416-scaled-e1670197507816-1024x683.jpg",
+            "publishedAt": "2022-12-05T07:28:24Z",
+            "content": "ATHENS, Ga. Georgia and Ohio State are two power programs that have been watching each other from a short distance the past few years, contesting each other in the recruiting rankings, seeing Justin … [+6910 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Ukraine war: Oil prices rise as cap on Russian crude looms - BBC",
+            "description": "The G7 nations and its allies have agreed to limit the price of Russian oil to $60 a barrel.",
+            "url": "https://www.bbc.com/news/business-63855030",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1688/production/_127886750_oil.png",
+            "publishedAt": "2022-12-05T07:26:38Z",
+            "content": "Oil prices have risen amid concerns that a new cap on the price of Russian crude could disrupt global supplies in the coming months.\r\nA separate decision by major oil-producing countries to keep cutt… [+3457 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Tyler Sullivan",
+            "title": "Cowboys vs. Colts score, takeaways: Defenses forces four second-half turnovers as Dallas blows out Indy - CBS Sports",
+            "description": "The Cowboys put together a fourth-quarter avalanche to get the win",
+            "url": "https://www.cbssports.com/nfl/news/cowboys-vs-colts-score-takeaways-defenses-forces-four-second-half-turnovers-as-dallas-blows-out-indy/live/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/05/15e1da64-d98e-49fd-b93d-e8f82c409b86/thumbnail/1200x675/8c6f1801b7ff79d93806c1f9a64ab11e/dak.jpg",
+            "publishedAt": "2022-12-05T07:26:00Z",
+            "content": "The Cowboys moved to 9-3 on the season after handling the Colts on Sunday night, 54-19. \r\nIndy gave Dallas a run for its money out of the gate, scoring 10 points on its first two possession to take a… [+6578 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Masrur Jamaluddin, Kareem El Damanhoury",
+            "title": "Thousands evacuated after Indonesia's Mount Semeru erupts - CNN",
+            "description": "Indonesia's Mount Semeru erupted on Sunday, blanketing roads and homes in volcanic ash and prompting evacuations of nearly 2,000 residents in East Java province, according to authorities in the country.",
+            "url": "https://www.cnn.com/2022/12/04/asia/indonesia-semeru-volcano-erupts-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221205100835-05-semeru-volcano-120422.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-05T06:50:00Z",
+            "content": "Indonesias Mount Semeru erupted on Sunday, blanketing roads and homes in volcanic ash and prompting evacuations of nearly 2,000 residents in East Java province, according to authorities in the countr… [+2258 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "Stock Market Today: Dow, S&P Live Updates for Dec 5 - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=b52727fd-747a-11ed-b716-72554466764f&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0xMi0wNC9kb2xsYXItZWRnZXMtdXAtYW1pZC1mb2N1cy1vbi1qb2JzLXJlcG9ydC1jaGluYS1tYXJrZXRzLXdyYXA=",
+            "urlToImage": null,
+            "publishedAt": "2022-12-05T06:48:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Ryan Browne",
+            "title": "OnePlus co-founder Carl Pei's new startup wants to launch smartphone in the U.S. to take on Apple - CNBC",
+            "description": "Nothing, the hardware venture from OnePlus co-founder Carl Pei, is in early talks with American carriers to launch a phone in the country.",
+            "url": "https://www.cnbc.com/2022/12/05/carl-peis-nothing-plans-to-launch-smartphone-in-us-to-take-on-iphone.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107160547-1670008243048-Nothing_phone1_KV_16x9_FT.jpg?v=1670221714&w=1920&h=1080",
+            "publishedAt": "2022-12-05T06:28:34Z",
+            "content": "U.K.-based consumer tech company Nothing is setting its sights on the U.S., with ambitions of taking on Apple's iPhone.\r\nThe startup, the hardware venture of Carl Pei co-founder of Chinese mobile pho… [+4888 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Ryan Young",
+            "title": "New Colorado coach Deion Sanders tells current Buffaloes players to enter transfer portal - Yahoo Sports",
+            "description": "\"I'm coming, and when I get here, it's gonna be changed.\"",
+            "url": "https://sports.yahoo.com/new-colorado-coach-deion-sanders-tells-current-buffaloes-players-to-enter-transfer-portal-055202151.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/ELAASmQ_xwPkD20MYvlhQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-12/37ae2900-745b-11ed-af7e-32eedd3c83c5",
+            "publishedAt": "2022-12-05T05:52:00Z",
+            "content": "Deion Sanders arrived in Boulder on Sunday, where he was officially announced as Colorados next head coach.\r\nHe came with a very clear message to current Buffaloes players, too.\r\nSanders already has … [+2998 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Nouran Salahieh, Hannah Sarisohn",
+            "title": "FBI joins investigation into North Carolina power outage caused by 'intentional' attacks on substations as officials work to determine a motive and suspect - CNN",
+            "description": "With no suspects or motive announced, the FBI is joining the investigation into power outages in a North Carolina county believed to have been caused by \"intentional\" and \"targeted\" attacks on substations that left around 40,000 customers in the dark Saturday…",
+            "url": "https://www.cnn.com/2022/12/05/us/power-outage-moore-county-investigation-monday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221204193155-01-north-carolina-power-120422.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-05T05:38:00Z",
+            "content": "With no suspects or motive announced, the FBI is joining the investigation into power outages in a North Carolina county believed to have been caused by intentional and targeted attacks on substation… [+4631 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Black Panther: Wakanda Forever Holds Off Violent Night to Win Its Fourth Weekend Box Office - IGN",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMid2h0dHBzOi8vd3d3Lmlnbi5jb20vYXJ0aWNsZXMvYmxhY2stcGFudGhlci13YWthbmRhLWZvcmV2ZXItaG9sZHMtb2ZmLXZpb2xlbnQtbmlnaHQtdG8td2luLWl0cy1mb3VydGgtd2Vla2VuZC1ib3gtb2ZmaWNl0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-05T05:37:21Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Allie Griffin",
+            "title": "Paul Pelosi attends Kennedy Center Honors in first appearance since hammer attack - New York Post ",
+            "description": "The husband of House Speaker Nancy Pelosi was spotted at the Kennedy Center Honors Sunday night in his first public appearance since he was assaulted by a home invader.",
+            "url": "https://nypost.com/2022/12/04/paul-pelosi-out-for-the-first-time-in-public-after-attack-at-kennedy-center-honors/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/12/paul-pelosi-comp-1.jpg?quality=75&strip=all&w=1024",
+            "publishedAt": "2022-12-05T04:41:00Z",
+            "content": "Paul Pelosi attended the Kennedy Center Honors Sunday night, in his first public appearance since he was brutally attacked with a hammer by a home invader more than a month ago. \r\nPaul Pelosi, 82, st… [+2008 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Hannah Knowles, Dylan Wells",
+            "title": "Georgia Senate runoff could cap GOP sweep in state — or echo national woes - The Washington Post",
+            "description": "Georgia remains “culturally red,” said one conservative-leaning voter backing Democratic Sen. Raphael G. Warnock. But “we’re not just partisan machines.”",
+            "url": "https://www.washingtonpost.com/politics/2022/12/04/georgia-senate-runoff-walker-warnock/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/NQUFSXOR6GKOJYLS2MVSXUMVLU.JPG&w=1440",
+            "publishedAt": "2022-12-05T03:49:00Z",
+            "content": "Comment on this story\r\nDULUTH, Ga. Steve Williams is the type of voter Republicans have been working furiously to court over the past four weeks in Georgias Senate runoff race.\r\nThe 33-year-old lamen… [+9402 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Ben Baby",
+            "title": "Bengals tout Joe Burrow after win over Patrick Mahomes, Chiefs - ESPN",
+            "description": "After Joe Burrow on Sunday became the first quarterback to beat Chiefs quarterback Patrick Mahomes in three straight games, his coach and Bengals teammates didn't hesitate to put him in the MVP discussion.",
+            "url": "https://www.espn.com/nfl/story/_/id/35185664/bengals-tout-joe-burrow-win-patrick-mahomes-chiefs",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F1204%2Fr1101969_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-12-05T03:01:57Z",
+            "content": "CINCINNATI -- Bengals coach Zac Taylor didn't hesitate when asked whether quarterback Joe Burrow should be in contention to win the NFL's Most Valuable Player award.\r\n\"Absolutely,\" Taylor said.\r\nBurr… [+3692 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Tracy Wright, Stephanie Giang-Paunon",
+            "title": "George Clooney says twins 'don't really care' he's a star at Kennedy Center Honors with wife Amal Clooney - Fox News",
+            "description": "George Clooney and wife Amal Clooney admitted their twins may \"someday\" believe dad is a star as they walked Kennedy Center Honors red carpet in Washington.",
+            "url": "https://www.foxnews.com/entertainment/george-clooney-says-twins-dont-really-care-star-kennedy-center-honors-wife-amal-clooney",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2022/12/george-clooney-amal-twins-kennedy.jpg",
+            "publishedAt": "2022-12-05T02:11:10Z",
+            "content": "George Clooney is one of Hollywood's most coveted actors, but to his kids, he's just their dad.\r\nClooney joked he'd won \"many\" awards before as he exclusively chatted with Fox News Digital on the red… [+2368 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Cut"
+            },
+            "author": "Claire Comstock-Gay",
+            "title": "Weekly Horoscopes for the Week of December 5 by the Cut - The Cut",
+            "description": "A list of all the horoscope signs (Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, Pisces) and their weekly horoscopes, by the Cut’s astrologer Madame Clairevoyant.",
+            "url": "http://www.thecut.com/2022/12/weekly-horoscopes-for-the-week-of-december-5-by-the-cut.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/2e0/bb9/1c0d0bdc0ff46344ca32548286dd156d26-10-sag-weekly.1x.rsocial.w1200.jpg",
+            "publishedAt": "2022-12-05T01:30:04Z",
+            "content": "On Tuesday evening, communication planet Mercury enters results-oriented Capricorn. Its no longer enough to merely wander and experiment, to throw ideas at the wall and see what sticks. No matter how… [+7302 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Bradford Betz",
+            "title": "OPEC+ agrees not to increase oil production amid slowing economy, Russian sanctions - Fox Business",
+            "description": "OPEC+ ministers say they are not changing their policy of cutting oil production amid uncertainty about the impact of new Western sanctions against Russian oil.",
+            "url": "https://www.foxbusiness.com/politics/opec-agrees-oil-production-amid-slowing-economy-russian-sanctions",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/12/0/0/OPEC.jpg?ve=1&tl=1",
+            "publishedAt": "2022-12-05T00:59:19Z",
+            "content": "Ministers from OPEC+ agreed during a Sunday meeting to stick to its policy of scaled-back oil production amid a slowing economy and a G7-imposed cap on Russian oil. \r\nThe decision comes after OPEC+, … [+1791 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "SKA: Construction to begin on world's biggest telescope - BBC",
+            "description": "It is one of the grand scientific projects of the 21st Century and will even search for extra-terrestrials.",
+            "url": "https://www.bbc.com/news/science-environment-63836496",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7ECA/production/_127885423_img_4316-scaled.jpg",
+            "publishedAt": "2022-12-05T00:47:01Z",
+            "content": "One of the grand scientific projects of the 21st Century begins its construction phase on Monday.\r\nThe Square Kilometre Array (SKA) will be the largest radio telescope in the world when completed in … [+4224 chars]"
+        }
+    ]
+}
